@@ -4,3 +4,4 @@ name = "balaj"
 version ="rstudio"
 
 print(name)
+print(version)
